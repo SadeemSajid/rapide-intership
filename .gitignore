@@ -173,3 +173,5 @@ cython_debug/
 
 # User defined
 data/
+week3/pass.txt
+week3/fake.json
